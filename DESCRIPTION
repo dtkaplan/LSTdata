@@ -12,5 +12,5 @@ LazyDataCompression: xz
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 VignetteBuilder: knitr
-URL: https://dtkaplan.github.io/LST/
+URL: https://dtkaplan.github.io/LSTdata/
 
