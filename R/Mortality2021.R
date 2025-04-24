@@ -1,4 +1,4 @@
-#' US yearly population data from 1941 to 20
+#' US Mortality tables for 2021
 #'
 #' The 2024 Trustees Reports from the US Social Security Administration
 #' is available online. The ["life tables"](https://www.ssa.gov/oact/STATS/table4c6.html) (from 2021)

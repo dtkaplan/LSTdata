@@ -3,7 +3,7 @@
 \docType{data}
 \name{SSA2021F}
 \alias{SSA2021F}
-\title{US yearly population data from 1941 to 20}
+\title{US Mortality tables for 2021}
 \format{
 The unit of observation is a year of age. The variables are
 \itemize{
